@@ -88,7 +88,7 @@ npm -v
 
 Follow the following steps to get development environment running.
 
-* Clone _'react-e-commerce-website.git'_ repository from GitHub
+* Clone _'React-E-Commerce.git'_ repository from GitHub
 
   ```bash
   git clone https://github.com/Devbijwe/React-E-Commerce.git
