@@ -4,7 +4,7 @@
 ### Version 1 :
 * The data is stored locally and not on Firestore
 * GraphQL has not been used.
-version 1 is hosted [HERE!](react-ecommerce.shivabijwe.online/)
+version 1 is hosted [HERE!](https://react-ecommerce.shivabijwe.online/)
 
 An E commerce platform made using React JS, Redux, Firebase (authentication), Firestore, Stripe API (temporarily creating dummy payment gateway)
 
