@@ -31,26 +31,26 @@ Version 1 completed and hosted
 
 Version 2 Progress: 50%
 <br/>
-![](src/assets/progressbar.png)
+![](/src/assets/progressbar.png)
 
 
 **SCREENSHOTS:**
 
 Landing Page:
 
-![](src/assets/main-screen.png)
+![](/src/assets/main-screen.png)
 ---
 Product Preview:
 
-![](src/assets/preview-page.png)
+![](/src/assets/preview-page.png)
 ---
 Sign-in && Sign-Up Page:
 
-![](src/assets/signinup.png)
+![](/src/assets/signinup.png)
 
 Cart Section:
 
-![](src/assets/cart.png)
+![](/src/assets/cart.png)
 
 ---
 
